@@ -1,0 +1,40 @@
+{
+  "name": "HTLT",
+  "logoURI": "https://raw.githubusercontent.com/htlotto/logo/master/htlogo.svg",
+  "keywords": [
+    "HTLT",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 256,
+      "address": "0x1272f58e0d5d68F00D84C2169633b615C3Da855f",
+      "name": "WETH",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
+    },
+    {
+      "chainId": 256,
+      "address": "0x4ac2CDa00BE0107d881426a9d6Bac2FFA179E534",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 256,
+      "address": "0x8eA78dB6C5f9aD7266f4Dc3EebE9Fe7A92E77bB0",
+      "name": "LOT",
+      "symbol": "LOT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/htlotto/logo/master/htlogo.svg"
+    },
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
