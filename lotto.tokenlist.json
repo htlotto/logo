@@ -8,12 +8,12 @@
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 256,
+      "name": "Wrapped Ether",
       "address": "0x1272f58e0d5d68F00D84C2169633b615C3Da855f",
-      "name": "WETH",
       "symbol": "WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ETH.svg"
+      "chainId": 5,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6/logo.png"
     },
     {
       "chainId": 256,
@@ -30,7 +30,7 @@
       "symbol": "LOT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/htlotto/logo/master/htlogo.svg"
-    },
+    }
   ],
   "version": {
     "major": 2,
